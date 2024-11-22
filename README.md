@@ -31,4 +31,4 @@
 | [![zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariabhmd&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/zakariabhmd?tab=repositories) [![zack's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabhmd&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories)
 
 ---------------
-[![zbabahmi's 42 stats](https://badge.mediaplus.ma/greenbinary/zbabahmi)](https://github.com/oakoudad/badge42)
+[![zbabahmi's 42 stats](https://badge.mediaplus.ma/Levi/zbabahmi)](https://github.com/oakoudad/badge42)
