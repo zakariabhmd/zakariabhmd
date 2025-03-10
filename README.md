@@ -25,6 +25,10 @@
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 </div>
+---------------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabhmd&theme=tokyonight)
+
 
 ---------------
 [![zbabahmi's 42 stats](https://badge.mediaplus.ma/Levi/zbabahmi)](https://github.com/oakoudad/badge42)
