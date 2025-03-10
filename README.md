@@ -27,7 +27,8 @@
 </div>
 ---------------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariabhmd&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zakariabhmd)](https://github.com/zakariabhmd/github-readme-stats)
+
 
 
 ---------------
